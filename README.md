@@ -71,4 +71,11 @@ npm install
 ```bash
 npm run dev
 ```
+## 🎨 Screenshots
+
+<img width="1440" height="617" alt="taskManagerAddition" src="https://github.com/user-attachments/assets/2709809c-2fb2-4d75-9963-fef0879499e4" />
+
+<img width="1185" height="703" alt="taskManagerLogin" src="https://github.com/user-attachments/assets/8b97a5c9-2a98-4e3e-a3c1-1bc3dd17db46" />
+
+<img width="1221" height="724" alt="taskManagerRegister" src="https://github.com/user-attachments/assets/28489cf9-2606-42f8-8b0b-fec0396027e0" />
 
