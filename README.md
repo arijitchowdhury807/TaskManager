@@ -71,6 +71,18 @@ npm install
 ```bash
 npm run dev
 ```
+
+## 🧱 Scalability Notes  
+This project can be scaled by:  
+- Converting backend into multiple microservices  
+- Adding Redis caching for faster task retrieval  
+- Using load balancers + horizontal scaling  
+- Adding refresh tokens + rotating JWTs  
+- Using Docker for containerization  
+- CI/CD deployment pipelines  
+
+
+
 ## 🎨 Screenshots
 
 <img width="1440" height="617" alt="taskManagerAddition" src="https://github.com/user-attachments/assets/2709809c-2fb2-4d75-9963-fef0879499e4" />
